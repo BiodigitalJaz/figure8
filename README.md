@@ -71,7 +71,3 @@ You can modify the following parameters in the code to customize the behavior:
 - `radiusX` and `radiusY` - Control the size of the figure 8 (currently set to 20% and 15% of screen dimensions)
 - The `t += 0.02` value - Controls the speed of movement (smaller values = slower movement)
 - Ticker interval - Currently set to 10ms, controls how frequently the cursor updates
-
-## License
-
-[MIT License](LICENSE)
