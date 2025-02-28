@@ -25,7 +25,7 @@ This Go application uses Windows system calls to programmatically control the mo
 
 ```
 git clone https://github.com/BiodigitalJaz/figure8.git
-cd figure8-cursor
+cd figure8
 ```
 
 2. Install dependencies:
